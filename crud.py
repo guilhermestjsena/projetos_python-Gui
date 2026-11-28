@@ -1,10 +1,10 @@
 import mysql.connector
 
 connection = mysql.connector.connect(
-    host='oculto para o github',
-    user='oculto para o github',
-    password='oculto para o github',
-    database='oculto para o github'
+    host='oculto para github',
+    user='oculto para github',
+    password='oculto para github',
+    database='oculto para github'
 )
 
 cursor = connection.cursor()
